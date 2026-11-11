@@ -1,7 +1,7 @@
 # ♻️ Smart AI E-Waste & Recyclable Waste Sorting System
 
 [![Vercel Deployment](https://img.shields.io/badge/Vercel-Live%20Demo-brightgreen?logo=vercel&style=for-the-badge)](https://ewastesorter.vercel.app)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github&style=for-the-badge)](https://github.com/Archit0029/ewaste-sorter)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github&style=for-the-badge)](https://github.com/atulsingh225/ewaste-sorter)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-yellow?logo=python&style=for-the-badge)](https://www.python.org/)
 [![Arduino UNO](https://img.shields.io/badge/Hardware-Arduino%20UNO-teal?logo=arduino&style=for-the-badge)](https://www.arduino.cc/)
 [![YOLOv8](https://img.shields.io/badge/Computer%20Vision-YOLOv8-orange?style=for-the-badge)](https://github.com/ultralytics/ultralytics)
@@ -110,7 +110,7 @@ If you want to copy or replicate this project on your local machine, follow thes
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Archit0029/ewaste-sorter.git
+git clone https://github.com/atulsingh225/ewaste-sorter.git
 cd ewaste-sorter
 ```
 
