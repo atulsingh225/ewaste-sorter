@@ -25,20 +25,15 @@ This project was developed by:
 
 | Name | Role | GitHub Profile |
 | :--- | :--- | :--- |
-| **Archit Bishnoi** | Project Lead, Vision & Full-Stack System Design | [![GitHub](https://img.shields.io/badge/Archit0029-181717?style=flat&logo=github)](https://github.com/Archit0029) |
 | **Atul Kumar Singh** | Hardware Integration & Testing | [![GitHub](https://img.shields.io/badge/atulsingh225-181717?style=flat&logo=github)](https://github.com/atulsingh225) |
+| **Archit Bishnoi** | Vision & Full-Stack System Design | [![GitHub](https://img.shields.io/badge/Archit0029-181717?style=flat&logo=github)](https://github.com/Archit0029) |
 | **Navneet Singh Saini** | Dataset Curation & Empirical Validation | [![GitHub](https://img.shields.io/badge/navneetsingh90-181717?style=flat&logo=github)](https://github.com/navneetsingh90) |
 
-### 🔗 Connect with Archit Bishnoi:
-- 🌐 **Portfolio Website**: [archit-portfolio-one.vercel.app](https://archit-portfolio-one.vercel.app/)
-- 💼 **LinkedIn**: [linkedin.com/in/archit-29bishnoi](https://www.linkedin.com/in/archit-29bishnoi)
-- 🐙 **GitHub**: [github.com/Archit0029](https://github.com/Archit0029)
-- 📸 **Instagram**: [@archit_bishnoi029](https://www.instagram.com/archit_bishnoi029/)
-- 📘 **Facebook**: [facebook.com/architbishnoi29](https://www.facebook.com/architbishnoi29)
-- 🛠️ **Other Live Projects**:
-  - [Smart-Compiler Cloud IDE](https://smartcompiler-swart.vercel.app/)
-  - [Price Predictions of Used Mobiles](https://pricepredictions.vercel.app/)
-  - [File Converter Web Application](https://github.com/Archit0029/File-Converter-Website)
+### 🔗 Connect with Atul Kumar Singh:
+- 💼 **LinkedIn**: [linkedin.com/in/atul-singh-26b439362](https://www.linkedin.com/in/atul-singh-26b439362)
+- 🐙 **GitHub**: [github.com/atulsingh225](https://github.com/atulsingh225)
+- 📸 **Instagram**: [@atulsinghrajput_07](https://www.instagram.com/atulsinghrajput_07/)
+- 📘 **Facebook**: [Atul Singh Rajput](https://www.facebook.com/)
 
 ---
 
